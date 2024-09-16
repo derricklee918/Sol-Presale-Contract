@@ -1,11 +1,10 @@
-# Solana Presale Smart Contract
+# Solana-Presale-Smart-Contract
 
-Smart contract designed for facilitating the sale of SPL tokens with additional features, including a presale mechanism and allocation tickets. The contract is built using the Anchor framework.
+A smart contract designed to facilitate the sale of SPL tokens, featuring a presale mechanism and allocation tickets. It is built using the Anchor framework.
 
-## Contact
-telegram: @Takhi77
+## Contact Me
+Telegram: [@derricklee918](https://t.me/@derricklee918)
 
-You can contact me here if you have any problems with this repo then we can decide comfortable contact way.
 
 ## Key Features
 
@@ -32,8 +31,8 @@ Before you begin, make sure you have the following tools installed:
 1. **Installation:** Clone the repository and install dependencies.
 
    ```bash
-   git clone https://github.com/skeleton1009/palm-presale.git
-   cd palm-presale
+   git clone https://github.com/derricklee918/Sol-Presale-Contract.git
+   cd Sol-Presale-Contract
    yarn
    ```
 
